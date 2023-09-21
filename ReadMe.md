@@ -1,1 +1,1 @@
-Miare Interview Task: Courier's income management
+Courier's income management
